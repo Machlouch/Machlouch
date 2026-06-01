@@ -1,28 +1,36 @@
 <!-- Profile README for GitHub: Machlouch -->
 
-<div align="center">
+<div align="left">
 
-<!-- Profile photo (GitHub avatar). If you want a different photo, replace the URL with your image link -->
-<img src="https://github.com/Machlouch.png" width="140" height="140" style="border-radius:50%;" alt="Houssem Machlouch" />
-
+<table>
+  <tr>
+    <td width="160" valign="middle">
+      <img src="https://github.com/Machlouch.png" width="140" height="140" style="border-radius:50%;" alt="Houssem Machlouch" />
+    </td>
+    <td valign="middle">
+      
 # Houssem Machlouch
 
 ### <span style="color:#4FD1C5">Full‑Stack Engineer</span> • <span style="color:#A855F7">Symfony/PHP</span> • <span style="color:#22C55E">Spring Boot</span> • <span style="color:#60A5FA">Angular</span> • <span style="color:#F59E0B">DevOps</span>
 
-<p>
-  <sub>Building secure, scalable web platforms with clean architecture and production‑grade infrastructure.</sub>
-</p>
+<sub>Building secure, scalable web platforms with clean architecture and production‑grade infrastructure.</sub>
 
-<p>
-  <a href="https://www.linkedin.com/in/machlouch-houssem/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:hmachlouche@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-hmachlouche%40gmail.com-222222?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=900&color=4FD1C5&center=true&vCenter=true&width=980&lines=Symfony%2FPHP+%E2%80%A2+Spring+Boot+%E2%80%A2+Angular;Docker+%E2%80%A2+Kubernetes+%E2%80%A2+AWS+%E2%80%A2+Terraform+%E2%80%A2+Ansible;Clean+architecture+%E2%80%A2+CI%2FCD+%E2%80%A2+Observability" alt="Typing SVG" />
+<a href="https://www.linkedin.com/in/machlouch-houssem/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:hmachlouche@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-hmachlouche%40gmail.com-222222?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=900&color=4FD1C5&vCenter=true&width=980&lines=Symfony%2FPHP+%E2%80%A2+Spring+Boot+%E2%80%A2+Angular;Docker+%E2%80%A2+Kubernetes+%E2%80%A2+AWS+%E2%80%A2+Terraform+%E2%80%A2+Ansible;Clean+architecture+%E2%80%A2+CI%2FCD+%E2%80%A2+Observability" alt="Typing SVG" />
+
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -38,7 +46,8 @@ const houssem = {
     "Backend development (Symfony/PHP, Spring Boot)",
     "Frontend development (Angular)",
     "Cloud-native delivery (Docker, Kubernetes, AWS)",
-    "Infrastructure as Code (Terraform) & automation (Ansible)"
+    "Infrastructure as Code (Terraform) & automation (Ansible)",
+    "Monitoring and observability (Grafana, Prometheus)"
   ],
   values: ["Clean Code", "Security", "Performance", "Reliability", "Automation"]
 };
@@ -106,5 +115,3 @@ const houssem = {
 - **Containerized deployments** on Kubernetes  
 - **Infrastructure automation** with Terraform and Ansible  
 - **Monitoring dashboards** with Grafana & Prometheus
-
----
