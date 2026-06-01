@@ -2,6 +2,9 @@
 
 <div align="center">
 
+<!-- Profile photo (GitHub avatar). If you want a different photo, replace the URL with your image link -->
+<img src="https://github.com/Machlouch.png" width="140" height="140" style="border-radius:50%;" alt="Houssem Machlouch" />
+
 # Houssem Machlouch
 
 ### <span style="color:#4FD1C5">Full‑Stack Engineer</span> • <span style="color:#A855F7">Symfony/PHP</span> • <span style="color:#22C55E">Spring Boot</span> • <span style="color:#60A5FA">Angular</span> • <span style="color:#F59E0B">DevOps</span>
